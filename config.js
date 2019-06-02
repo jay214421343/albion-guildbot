@@ -6,7 +6,7 @@
 module.exports = {
   discord: {
     // The Discord token of the Bot to post through.
-    token: process.env.DISCORD_TOKEN,
+    token: NTgzOTMyMTUyMzkyMDU2ODQz.XPOxfw.euIX_w_sfzBtL3SA2-kvS4f9ZMU,
     // The ID of the discord channel to post battleboard infos to.
     feedChannelId: process.env.ALBION_FEED_CHANNEL_ID,
     // The ID of the discord channel to post albion status infos to.
